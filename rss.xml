@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vladimir Starkov]]></title>
+        <description><![CDATA[Frontend blog from Vladimir Starkov]]></description>
+        <link>https://iamstarkov/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 11 May 2015 18:57:30 GMT</lastBuildDate>
+        <atom:link href="https://iamstarkov/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[en-us]]></language>
+        <managingEditor><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></managingEditor>
+        <webMaster><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></webMaster>
+        <category><![CDATA[frontend]]></category>
+        <category><![CDATA[css]]></category>
+        <category><![CDATA[typography]]></category>
+        <item>
+            <title><![CDATA[commonmark-helpers is out!]]></title>
+            <description><![CDATA[<p>Basically, with commonmark-helpers you can find desire elements in markdown document
+and process them in html or plaintext format.</p>
+<img src="https://i.imgur.com/CM0V0d4.png" alt="commonmark-helpers passing all the tests!" />]]></description>
+            <link>commonmark-helpers-release</link>
+            <guid isPermaLink="true">commonmark-helpers-release</guid>
+            <pubDate>Sun, 10 May 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deploy to GitHub pages from Travis CI]]></title>
+            <description><![CDATA[<p>Imagine that you have open-source project, which site is hosting on github pages
+and you have &quot;edit on github&quot; button on this site. It’s great, because if you
+are lucky, you will get few pull-requests every week. On the other side you
+will need laptop every time, you want to deploy changes and, you know,
+it’s a bit annoying.</p>
+<img src="https://i.imgur.com/U1K3xkv.png" alt="Travis CI" />]]></description>
+            <link>deploy-gh-pages-from-travis</link>
+            <guid isPermaLink="true">deploy-gh-pages-from-travis</guid>
+            <pubDate>Sun, 10 May 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Renaming experience]]></title>
+            <description><![CDATA[<p>I used to have &quot;@matmuchrapna&quot; username, but now you will find me
+as <a href="https://twitter.com/iamstarkov">@iamstarkov</a>. I successfully renamed myself
+on internet and want to share my experience. I’m assuming that you want to have
+the same username on domain, mail, social media and messengers. If you
+have trademark, skip entire article.</p>
+<img src="https://i.imgur.com/q8LcWMw.jpg" alt="Squatters @ Squatters everywhere" />]]></description>
+            <link>renaming-experience</link>
+            <guid isPermaLink="true">renaming-experience</guid>
+            <pubDate>Tue, 05 May 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Every technical article must have publish date]]></title>
+            <description><![CDATA[<p>Everytime I read article without publish date I feel myself uncomfortable.
+Modern frontend world is very fast changing thing; new javascript frameworks
+are inventing every month, tens npm-packages are publishing everyday and useful
+approaches become outdated in a months.</p>
+<img src="https://pbs.twimg.com/media/CBigK8NWIAELu5g.jpg:large" alt="New JS frameworks every day!" />]]></description>
+            <link>articles-dates</link>
+            <guid isPermaLink="true">articles-dates</guid>
+            <pubDate>Thu, 30 Apr 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<p>I’m Vladimir Starkov; obsessed with frontend, typography and BEM and that’s
+why I’m one of the founders of <a href="http://getbem.com/">getbem.com</a>.</p>
+]]></description>
+            <link>about</link>
+            <guid isPermaLink="true">about</guid>
+            <pubDate>Wed, 29 Apr 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Speed up your development with npm init command]]></title>
+            <description><![CDATA[<p>npm has a great command <code>npm init</code> which allows you to create <code>package.json</code>
+in a second!</p>
+]]></description>
+            <link>npm-init</link>
+            <guid isPermaLink="true">npm-init</guid>
+            <pubDate>Tue, 21 Apr 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minimum viable blog]]></title>
+            <description><![CDATA[<p>You should have ability to write it, readers — to read it.
+Content is a king. Spend time on writing, not on developing.</p>
+]]></description>
+            <link>mvb</link>
+            <guid isPermaLink="true">mvb</guid>
+            <pubDate>Mon, 20 Apr 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
